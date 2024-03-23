@@ -1,0 +1,7 @@
+Open Terminal of kali linux
+Locate the scanmaster folder path
+type :    chmod +x scanmaster and hit enter
+type :    ./scanmaster and hit enter
+Enter IP Of the Target 
+Enter Port number 
+Select your desired operations from the menu
